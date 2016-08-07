@@ -1,0 +1,11 @@
+{
+  "name": "test-devp2p",
+  "version": "0.0.1",
+  "description": "tests for eth devp2p",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "nginnever",
+  "license": "MIT"
+}
